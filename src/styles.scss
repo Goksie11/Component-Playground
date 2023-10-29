@@ -1,1 +1,32 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+
+
+.dis-block{
+
+   display: block !important;
+
+}
+
+.text-center{
+
+   text-align: center !important;
+}
+
+.icon-white{
+
+   color: white !important;
+   
+}
+
+.main-div{
+
+   border: 1px solid #0000001c; min-height: 100vh !important;
+   border-radius: 20px;
+   margin-top: 5px;
+
+}
